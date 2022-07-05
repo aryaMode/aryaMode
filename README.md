@@ -6,4 +6,4 @@
 
 1. I have first hand experience with once you go black you never go back, I tried black coffee once and I was hooked.
 2. I am a flutter superhero who makes multi-platform application in record times while fighting crimes at night.
-3. My armory includes python, java, and dart.
+3. My armory weapons are : python, java, and dart.
