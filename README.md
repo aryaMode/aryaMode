@@ -19,8 +19,7 @@ I am a toddler trapped inside a Senior Computer Science student's body, so I ten
 
 
 <br />
-
----
+<br />
 
 # 📝 My Blog posts
 
@@ -31,8 +30,9 @@ I am a toddler trapped inside a Senior Computer Science student's body, so I ten
 - [Science of Muscle Growth, Increasing Strength &amp; Muscular Recovery | Huberman Lab Podcast #22](https://aryadhrangdhria.medium.com/science-of-muscle-growth-increasing-strength-muscular-recovery-huberman-lab-podcast-22-d8e905280304?source=rss-127672fa8a5a------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-### 📊 Stats
+<br />
+
+# 📊 Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aryaMode&show_icons=true&theme=panda" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaMode&layout=compact" />
