@@ -1,9 +1,28 @@
-# Arya Dhrangdhria
+# Hey there, I'm Arya!
 
-## "Arjuna that which is born will die and that which will die will be born. So it is pointless to cling and mourn. " -Bhagavad Gita: Chapter 2, Verse 27
+I am a toddler trapped inside a Senior Computer Science student's body, and so I tend to make silly little things that seem mildly interesting to me. My fuel of choice is Specialty Coffee and Desi Chai.
 
-### Facts :
 
-1. I have first hand experience with once you go black you never go back, I tried black coffee once and I was hooked.
-2. I am a flutter superhero who makes multi-platform application in record times while fighting crimes at night.
-3. My armory weapons are : python, java, and dart.
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+
+
+
+<br />
+
+---
+
+### 📊 Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aryaMode&show_icons=true&theme=panda" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryaMode&layout=compact" />
