@@ -23,6 +23,9 @@ I am a toddler trapped inside a Senior Computer Science student's body, and so I
 ---
 
 # 📝 My Blog posts
+
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=aryadhrangdhria&type=horizontal)](https://medium.com/@Souravdey777)
+
 <!-- BLOG-POST-LIST:START -->
 - [How to build Strength Muscle Size and Endurance | Dr. Andy Galpin and Dr. Andrew Huberman](https://aryadhrangdhria.medium.com/how-to-build-strength-muscle-size-and-endurance-dr-andy-galpin-and-dr-andrew-huberman-ccf4176767b9?source=rss-127672fa8a5a------2)
 - [Science of Muscle Growth, Increasing Strength &amp; Muscular Recovery | Huberman Lab Podcast #22](https://aryadhrangdhria.medium.com/science-of-muscle-growth-increasing-strength-muscular-recovery-huberman-lab-podcast-22-d8e905280304?source=rss-127672fa8a5a------2)
